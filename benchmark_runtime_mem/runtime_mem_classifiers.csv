@@ -1,0 +1,4 @@
+﻿clade_num,condition,claded,chunked, time,memory,cap
+classifier,Claded-Unchunked-no,Claded,Unchunked,100.13,6.13,no
+classifier,Claded-Chunked-no,Claded,Chunked,393.3,60.3,no
+classifier,Claded-Chunked-yes,Claded,Chunked,349.43,32.9,yes

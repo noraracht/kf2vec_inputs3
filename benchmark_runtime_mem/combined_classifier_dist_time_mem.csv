@@ -1,0 +1,9 @@
+﻿model,condition,claded,chunked, time,mem,cap,paired_w_cap,
+classifier,Claded-Unchunked-no,Claded,Unchunked,100.13,6.13,no,no,
+classifier,Claded-Chunked-no,Claded,Chunked,393.3,60.3,no,yes,
+classifier,Claded-Chunked-yes,Claded,Chunked,349.43,32.9,yes,yes,
+distance,Claded-Unchunked-no,Claded,Unchunked,50.81,4.4,no,no,
+distance,Claded-Chunked-no,Claded,Chunked,270.79,9.62,no,no,
+distance,Uncladed-Chunked-no,Uncladed,Chunked,2295.02,59.5,no,yes,
+distance,Uncladed-Chunked-yes,Uncladed,Chunked,2223.93,38.2,yes,yes,37.07
+distance,Uncladed-Unchunked-no,Uncladed,Unchunked,351.68,7.95,no,no,

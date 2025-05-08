@@ -1,0 +1,34 @@
+
+==> Input arguments...
+
+Feature directory: ../../backup/updated_input2/10k_TOL_chunks/p_backbone_kf
+Clades information: ../updated_inputs/tol_10070_single_clade.subtrees
+Ground truth directory: ../updated_inputs
+
+==> Parameters...
+
+GPU Support: Yes
+GPU Count: 1
+Workers Count: 4
+CPU Count: 72
+Hidden Size fc1: 2048
+Embedding Size: 1024
+Starting Epoch: 0
+Total Epochs: 8000
+Batch Size: 16
+Learning Rate: 1e-05
+Learning Rate Min: 3e-06
+Learning Rate Decay: 2000
+Clades to train: all
+Random Seed: 28
+
+==> Subtree training...
+
+Number of Classes: 1
+
+==> Working on subtree 0...
+
+
+==> Preparing Data...
+
+Dimensions of feature matrix rows: 10037, cols: 8192

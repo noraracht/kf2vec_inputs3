@@ -1,0 +1,26 @@
+
+==> Input arguments...
+
+Feature directory: ../../backup/updated_input2/10k_TOL_chunks/p_backbone_kf
+Clades information: ../../backup/updated_input2/clade_targets_missingRemoved_noQueries.txt
+
+==> Parameters...
+
+GPU Support: Yes
+GPU Count: 1
+Workers Count: 4
+CPU Count: 32
+Hidden Size fc1: 2048
+Starting Epoch: 0
+Total Epochs: 2000
+Batch Size: 16
+Learning Rate: 1e-05
+Learning Rate Min: 3e-06
+Learning Rate Decay: 2000
+Random Seed: 28
+Masking: False
+Cap kmer frequencies: False
+
+==> Preparing Data...
+
+Dimensions of feature matrix rows: 10037, cols: 8192
